@@ -1,0 +1,15 @@
+C:\Users\79134\Desktop\remote\rasrab00\bin\Debug\net6.0\rasrab00.exe
+C:\Users\79134\Desktop\remote\rasrab00\bin\Debug\net6.0\rasrab00.deps.json
+C:\Users\79134\Desktop\remote\rasrab00\bin\Debug\net6.0\rasrab00.runtimeconfig.json
+C:\Users\79134\Desktop\remote\rasrab00\bin\Debug\net6.0\rasrab00.dll
+C:\Users\79134\Desktop\remote\rasrab00\bin\Debug\net6.0\rasrab00.pdb
+C:\Users\79134\Desktop\remote\rasrab00\obj\Debug\net6.0\rasrab00.csproj.AssemblyReference.cache
+C:\Users\79134\Desktop\remote\rasrab00\obj\Debug\net6.0\rasrab00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79134\Desktop\remote\rasrab00\obj\Debug\net6.0\rasrab00.AssemblyInfoInputs.cache
+C:\Users\79134\Desktop\remote\rasrab00\obj\Debug\net6.0\rasrab00.AssemblyInfo.cs
+C:\Users\79134\Desktop\remote\rasrab00\obj\Debug\net6.0\rasrab00.csproj.CoreCompileInputs.cache
+C:\Users\79134\Desktop\remote\rasrab00\obj\Debug\net6.0\rasrab00.dll
+C:\Users\79134\Desktop\remote\rasrab00\obj\Debug\net6.0\refint\rasrab00.dll
+C:\Users\79134\Desktop\remote\rasrab00\obj\Debug\net6.0\rasrab00.pdb
+C:\Users\79134\Desktop\remote\rasrab00\obj\Debug\net6.0\rasrab00.genruntimeconfig.cache
+C:\Users\79134\Desktop\remote\rasrab00\obj\Debug\net6.0\ref\rasrab00.dll
